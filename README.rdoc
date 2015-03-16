@@ -1,0 +1,13 @@
+== README
+
+This is a web application built with Ruby on Rails.
+
+Adding basic user functionality:
+
+Login
+Logout
+Account Settings
+Add New Resource
+
+Last updated: 3/8/15 @ 10:53 AM EST
+
